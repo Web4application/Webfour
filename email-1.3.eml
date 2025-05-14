@@ -1,0 +1,64 @@
+Return-Path: <Kubucoin@proton.me>
+X-OX-INT-g6oqID-Delivered-To: office@nnrdevelopment.com
+Received: from nmtai108.oxsus-vadesecure.net (nmtai108.oxsus-vadesecure.net [135.148.169.195])
+	(using TLSv1.3 with cipher TLS_AES_128_GCM_SHA256 (128/128 bits)
+	 key-exchange X25519 server-signature RSA-PSS (4096 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mx.netsol.xion.oxcs.net (Postfix) with ESMTPS id 4Zm3q70qQGzqSN2
+	for <office@nnrdevelopment.com>; Mon, 28 Apr 2025 00:14:43 +0000 (UTC)
+X-VadeSecure-Originating-IP: 209.17.115.107
+X-VadeSecure-Malware: Clean
+X-VadeSecure-Verdict: clean
+X-VadeSecure-Status: clean
+X-VadeSecure-Cause: gggruggvucftvghtrhhoucdtuddrgeefvddrtddtgddvheelgeekucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecuqfgiufgfufdpggftfghnshhusghstghrihgsvgdpgffpggdqpffghgfhqffnffenuceurghilhhouhhtmecufedtudenucesvcftvggtihhpihgvnhhtshculddquddttddmnecujfgurhepthfhvffufffkgggtgffonfgkqfesthejjedtfedtudenucfhrhhomhepoefmuhgsuhgtohhinhesphhrohhtohhnrdhmvgeqnecuggftrfgrthhtvghrnhepveeivdehteduvddvvddvgeekkedvtefhieekjefhfffgfeefveehgffgfefhvddtnecuffhomhgrihhnpeihrghnuggvgidrrhhunecukfhppedvtdelrddujedrudduhedruddtjeenucevlhhushhtvghrufhiiigvpedtnecurfgrrhgrmhepihhnvghtpedvtdelrddujedrudduhedruddtjedphhgvlhhopegrthhlgehmhhhhohdtvddrrhgvghhishhtvghrvggushhithgvrdgtohhmpdhmrghilhhfrhhomhepmfhusghutghoihhnsehprhhothhonhdrmhgvpdhnsggprhgtphhtthhopedupdhmohguvgepshhmthhppdhgvghtqdfurghfvggfnhhsuhgsshgtrhhisggvpdhgvghokffrpehushdpshhpfhepshhofhhtfhgrihhlpdgukhhimhepnhhonhgvpdgumhgrrhgtpehfrghilhdprhgvvhfkrfeprghtlhegmhhhhhhotddvrdhmhihrvghgihhsthgvrhgvughsihhtvgdrtghomhdrpdhlvggrrhhnihhnghepth
+ hruhgv
+X-VadeSecure-Score: -100
+X-VadeSecure-SID: 75e3cab6-183a533286bca7b9
+X-VadeSecure-Dom: oxcloud-us-2
+Authentication-Results: oxsus-vadesecure.net;
+ iprev=pass policy.iprev=209.17.115.107;
+ spf=softfail (sender IP is 209.17.115.107) smtp.mailfrom=kubucoin@proton.me;
+ dkim=none (message not signed);
+ dmarc=fail action=quarantine header.from=proton.me;
+ arc=none;
+X-OX-DMARC: fail (policy=quarantine)
+Received-DKIM: None
+Received-SPF: Softfail
+Received: from atl4mhho02.registeredsite.com ([209.17.115.107])
+ by oxsus1nmtai08p.internal.vadesecure.com with ngmta
+ id 75e3cab6-183a5332985b09c8; Mon, 28 Apr 2025 00:14:42 +0000
+Received: from ATL4WDPWEB02C ([10.30.65.112])
+	by atl4mhho02.registeredsite.com (8.14.4/8.14.4) with SMTP id 53S0EfsM022561
+	for <office@nnrdevelopment.com>; Sun, 27 Apr 2025 20:14:41 -0400
+X-WDP-Connection-ID: 7067f553-62b0-467b-a84f-6aad714e2152
+X-WDP-Computer-Name: ATL4WDPWEB02C
+X-WDP-Process-ID: 2356
+X-WDP-Process-Name: w3wp
+X-WDP-Process-Owner: WDP\iusr_4624776137
+X-WDP-App-Pool: 4624776137
+thread-index: Adu30olm740/mllpQgaClJHyEx8N+w==
+Thread-Topic: Contact form submission from nnrdevelopment.com
+From: <Kubucoin@proton.me>
+To: "NN & R Office" <office@nnrdevelopment.com>
+Subject: Contact form submission from nnrdevelopment.com
+Date: Sun, 27 Apr 2025 20:14:41 -0400
+Message-ID: <15DACAB977914292BF804733BFAD563D@wdp.local>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.3.9600.21615
+
+Recipient : General
+Name : KVSteKCwjFUD
+Phone : 83979978779
+Email : Kubucoin@proton.me
+Message :  
+You've been a member of our automatic cloud Bitcoin mining platform for 364 days. During this time, your mining efforts have yielded 1.4426 BTC, amounting to $95550.61 USD. Click Here https://yandex.ru/poll/enter/NqycfqmKwabgwBuv4HKkiH#umJbP91 
+
+
+
